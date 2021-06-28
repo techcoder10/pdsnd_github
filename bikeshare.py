@@ -23,7 +23,7 @@ show_raw_data = None
 
 def show_data(df):
     """
-    Prints raw data after the user respondes yes
+    Prints raw data after the user respondes yes and does not print raw data if the user responds no
   
        
     """
