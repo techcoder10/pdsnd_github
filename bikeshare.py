@@ -94,7 +94,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
-    
+    # set global variables that will be used later in the code
     global city
     global month
     global day
