@@ -7,12 +7,13 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-I will simulate the workflow used in industry on the bikeshare project i completed in the previous project.
+I will simulate the workflow used in industry on the bikeshare project I completed in the previous project.
 
 ### Files used
 Bikeshare.py
 
 
+
 ### Credits
-This is my original work
+This is my original work with the help of the lessons on Udacity.
 
