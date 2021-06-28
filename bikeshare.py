@@ -260,7 +260,7 @@ def main():
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
-        # if user wants then print raw data
+        # if user wants then print raw data then this code will run
         if (show_raw_data == "yes"):
             show_data(df)
          
